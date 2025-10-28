@@ -1,0 +1,351 @@
+{
+  "hotel_info": {
+    "name": "Hyatt House Charlotte Airport",
+    "address": "4920 South Tryon Street, Charlotte, NC",
+    "phone": "+1 (704) 357-5000",
+    "email": "reservations@hyatthousecharlotteairport.com",
+    "description": "All-suite hotel near Charlotte Airport featuring full kitchens, complimentary breakfast, free shuttle service, and modern amenities"
+  },
+  "rooms": [
+    {
+      "id": "201",
+      "type": "Queen Guest Room",
+      "description": "Contemporary room featuring one clean and fresh Hilton Serenity queen bed with premium linens",
+      "amenities": [
+        "Free WiFi",
+        "40-inch HDTV",
+        "Mini-fridge",
+        "Keurig coffee maker",
+        "Work desk",
+        "Serenity bedding",
+        "Blackout curtains"
+      ],
+      "price_per_night": 139,
+      "capacity": 2,
+      "available": false
+    },
+    {
+      "id": "202",
+      "type": "Queen Guest Room",
+      "description": "Contemporary room featuring one clean and fresh Hilton Serenity queen bed with premium linens",
+      "amenities": [
+        "Free WiFi",
+        "40-inch HDTV",
+        "Mini-fridge",
+        "Keurig coffee maker",
+        "Work desk",
+        "Serenity bedding",
+        "Blackout curtains"
+      ],
+      "price_per_night": 139,
+      "capacity": 2,
+      "available": false
+    },
+    {
+      "id": "203",
+      "type": "2 Queen Beds Guest Room",
+      "description": "Spacious room with two queen beds, ideal for families or small groups traveling together",
+      "amenities": [
+        "Free WiFi",
+        "40-inch HDTV",
+        "Mini-fridge",
+        "Keurig coffee maker",
+        "Work desk",
+        "Serenity bedding",
+        "Blackout curtains"
+      ],
+      "price_per_night": 159,
+      "capacity": 4,
+      "available": true
+    },
+    {
+      "id": "204",
+      "type": "2 Queen Beds Guest Room",
+      "description": "Spacious room with two queen beds, ideal for families or small groups traveling together",
+      "amenities": [
+        "Free WiFi",
+        "40-inch HDTV",
+        "Mini-fridge",
+        "Keurig coffee maker",
+        "Work desk",
+        "Serenity bedding",
+        "Blackout curtains"
+      ],
+      "price_per_night": 159,
+      "capacity": 4,
+      "available": true
+    },
+    {
+      "id": "301",
+      "type": "King Guest Room",
+      "description": "Comfortable king room with modern amenities and dedicated workspace for business travelers",
+      "amenities": [
+        "Free WiFi",
+        "40-inch HDTV",
+        "Mini-fridge",
+        "Keurig coffee maker",
+        "Large work desk",
+        "Ergonomic chair",
+        "Serenity bedding"
+      ],
+      "price_per_night": 149,
+      "capacity": 2,
+      "available": false
+    },
+    {
+      "id": "302",
+      "type": "King Guest Room",
+      "description": "Comfortable king room with modern amenities and dedicated workspace for business travelers",
+      "amenities": [
+        "Free WiFi",
+        "40-inch HDTV",
+        "Mini-fridge",
+        "Keurig coffee maker",
+        "Large work desk",
+        "Ergonomic chair",
+        "Serenity bedding"
+      ],
+      "price_per_night": 149,
+      "capacity": 2,
+      "available": false
+    },
+    {
+      "id": "401",
+      "type": "Executive King Room",
+      "description": "Premium room with king bed, separate seating area, and executive-level amenities",
+      "amenities": [
+        "Free WiFi",
+        "50-inch Smart TV",
+        "Mini-bar",
+        "Nespresso machine",
+        "Large work desk",
+        "Sofa",
+        "Premium bedding",
+        "City view"
+      ],
+      "price_per_night": 189,
+      "capacity": 2,
+      "available": false
+    },
+    {
+      "id": "402",
+      "type": "Executive King Room",
+      "description": "Premium room with king bed, separate seating area, and executive-level amenities",
+      "amenities": [
+        "Free WiFi",
+        "50-inch Smart TV",
+        "Mini-bar",
+        "Nespresso machine",
+        "Large work desk",
+        "Sofa",
+        "Premium bedding",
+        "City view"
+      ],
+      "price_per_night": 189,
+      "capacity": 2,
+      "available": true
+    },
+    {
+      "id": "501",
+      "type": "One-Bedroom Suite",
+      "description": "Spacious suite with separate bedroom, living area, wet bar, and enhanced amenities perfect for extended stays",
+      "amenities": [
+        "Free WiFi",
+        "2 HDTVs",
+        "Kitchenette",
+        "Dining area",
+        "Sofa bed",
+        "Work desk",
+        "Premium bedding",
+        "Skyline view"
+      ],
+      "price_per_night": 259,
+      "capacity": 4,
+      "available": false
+    },
+    {
+      "id": "502",
+      "type": "Accessible Queen Room",
+      "description": "ADA-compliant room with mobility and hearing accessible features and one queen bed",
+      "amenities": [
+        "Free WiFi",
+        "40-inch HDTV",
+        "Mini-fridge",
+        "Keurig coffee maker",
+        "Roll-in shower",
+        "Grab bars",
+        "Accessible features",
+        "TDD"
+      ],
+      "price_per_night": 139,
+      "capacity": 2,
+      "available": true
+    }
+  ],
+  "policies": {
+    "check_in": "Check-in time is 3:00 PM. Hilton Honors members may request early check-in based on availability.",
+    "check_out": "Check-out time is 12:00 PM (noon). Late checkout available for Hilton Honors members subject to availability.",
+    "cancellation": "Free cancellation up to 48 hours before arrival (6:00 PM local hotel time). Cancellations within 48 hours will incur a one-night room charge.",
+    "pets": "Pet-friendly hotel welcomes dogs and cats up to 75 lbs (2 pets per room). $75 non-refundable pet fee per stay.",
+    "smoking": "100% non-smoking hotel. Designated smoking areas available outside the main entrance.",
+    "payment": "We accept all major credit cards (Visa, Mastercard, Amex, Discover). Hilton Honors points can be used for stays. Valid photo ID and credit card required at check-in.",
+    "parking": "Complimentary self-parking for all guests. Oversized vehicle parking available. Electric vehicle charging stations on-site.",
+    "airport_shuttle": "Complimentary 24-hour airport shuttle service to/from Charlotte Douglas International Airport (CLT). Shuttle runs every 20 minutes."
+  },
+  "amenities": {
+    "fitness_center": "24-hour fitness center featuring state-of-the-art Precor cardio equipment, free weights, and strength training machines.",
+    "pool": "Indoor heated pool and whirlpool open daily 6:00 AM - 11:00 PM. Towels provided poolside.",
+    "parking": "Complimentary self-parking with covered and uncovered options. EV charging stations available.",
+    "wifi": "Complimentary high-speed WiFi throughout the hotel. Hilton Honors members receive premium WiFi.",
+    "breakfast": "Garden Grille restaurant serves hot breakfast buffet daily 6:00 AM - 10:00 AM (weekdays) and 7:00 AM - 11:00 AM (weekends).",
+    "restaurant": "Garden Grille & Bar serves American cuisine for breakfast, lunch, and dinner. Room service available.",
+    "business_center": "24-hour business center with computers, printers, copiers, and complimentary printing services.",
+    "airport_shuttle": "Complimentary 24-hour airport shuttle to Charlotte Douglas International Airport (CLT). Shuttles every 20 minutes.",
+    "meeting_rooms": "Over 10,000 sq ft of flexible meeting and event space with AV equipment and catering services.",
+    "laundry": "Guest laundry facilities and same-day dry cleaning service available.",
+    "atm": "ATM located in main lobby for guest convenience."
+  },
+  "faqs": [
+    {
+      "question": "What time is check-in and check-out?",
+      "answer": "Check-in is at 3:00 PM and check-out is at 12:00 PM (noon). Early check-in and late checkout may be available for Hilton Honors members based on availability."
+    },
+    {
+      "question": "Do you offer airport shuttle service?",
+      "answer": "Yes! We provide complimentary 24-hour shuttle service to and from Charlotte Douglas International Airport (CLT). Shuttles run every 20 minutes."
+    },
+    {
+      "question": "Is parking free?",
+      "answer": "Yes, we offer complimentary self-parking for all guests, including covered parking and electric vehicle charging stations."
+    },
+    {
+      "question": "Is breakfast included?",
+      "answer": "Breakfast is available at our Garden Grille restaurant from 6:00-10:00 AM weekdays and 7:00-11:00 AM weekends. Check your reservation for details on breakfast inclusion."
+    },
+    {
+      "question": "Are pets allowed?",
+      "answer": "Yes, we're pet-friendly! We welcome dogs and cats up to 75 lbs (maximum 2 pets per room) with a $75 non-refundable pet fee per stay."
+    },
+    {
+      "question": "Do you have a pool and fitness center?",
+      "answer": "Yes! We have an indoor heated pool with whirlpool (6 AM-11 PM) and a 24-hour fitness center with Precor equipment."
+    },
+    {
+      "question": "Is WiFi available?",
+      "answer": "Yes, complimentary high-speed WiFi is available throughout the hotel. Hilton Honors members receive premium WiFi access."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "You can cancel free of charge up to 48 hours before arrival (6:00 PM local time). Cancellations within 48 hours will incur a one-night room charge."
+    },
+    {
+      "question": "Can I earn Hilton Honors points?",
+      "answer": "Yes! All stays are eligible for Hilton Honors points. Members also enjoy exclusive benefits like free WiFi, digital check-in, and room selection."
+    },
+    {
+      "question": "How far is the hotel from the airport?",
+      "answer": "We're located just 1.5 miles from Charlotte Douglas International Airport (CLT), approximately 5 minutes by our complimentary shuttle."
+    }
+  ],
+  "bookings": [
+    {
+      "booking_id": "BK0001",
+      "guest_name": "Muskan Sahetai",
+      "room_id": "201",
+      "room_type": "Queen Guest Room",
+      "price_per_night": 139,
+      "check_in": "TBD",
+      "check_out": "TBD",
+      "created_at": "2025-10-12T13:25:43.523283",
+      "source": "web_chat"
+    },
+    {
+      "booking_id": "BK0002",
+      "guest_name": "Alex Thompson",
+      "room_id": "202",
+      "room_type": "Queen Guest Room",
+      "price_per_night": 139,
+      "check_in": "TBD",
+      "check_out": "TBD",
+      "created_at": "2025-10-12T13:26:37.529610",
+      "source": "web_chat"
+    },
+    {
+      "booking_id": "BK0003",
+      "guest_name": "Muskan Sahetai",
+      "room_id": "301",
+      "room_type": "King Guest Room",
+      "price_per_night": 149,
+      "nights": 3,
+      "total_cost": 447,
+      "num_guests": 2,
+      "check_in": "TBD",
+      "check_out": "TBD",
+      "created_at": "2025-10-12T13:30:01.211079",
+      "source": "web_chat"
+    },
+    {
+      "booking_id": "BK0004",
+      "guest_name": "Test User",
+      "room_id": "302",
+      "room_type": "King Guest Room",
+      "price_per_night": 149,
+      "nights": 2,
+      "total_cost": 298,
+      "num_guests": 2,
+      "check_in": "TBD",
+      "check_out": "TBD",
+      "created_at": "2025-10-12T13:59:12.568456",
+      "source": "web_chat"
+    },
+    {
+      "booking_id": "BK0005",
+      "guest_name": "Muskan Sahetai",
+      "room_id": "501",
+      "room_type": "One-Bedroom Suite",
+      "hotel_name": "Hilton Charlotte Airport",
+      "price_per_night": 259,
+      "nights": 3,
+      "total_cost": 777,
+      "num_guests": 4,
+      "check_in": "2025-10-13",
+      "check_out": "2025-10-14",
+      "created_at": "2025-10-12T15:15:50.932988",
+      "source": "web_chat"
+    },
+    {
+      "booking_id": "BK0006",
+      "guest_name": "Muskan Sahetai",
+      "room_id": "401",
+      "room_type": "Executive King Room",
+      "hotel_name": "Hilton Charlotte Airport",
+      "price_per_night": 189,
+      "nights": 4,
+      "total_cost": 756,
+      "num_guests": 2,
+      "check_in": "2025-10-14",
+      "check_out": "2025-10-18",
+      "created_at": "2025-10-13T10:32:41.784590",
+      "source": "web_chat"
+    },
+    {
+      "booking_id": "BK0007",
+      "guest_name": "John Smith",
+      "guest_email": "Not provided",
+      "guest_phone": "555-123-4567",
+      "special_requests": "None",
+      "payment_method": "Not provided",
+      "room_id": "301",
+      "room_type": "King Guest Room",
+      "hotel_name": "Hilton Charlotte Airport",
+      "price_per_night": 149,
+      "nights": 2,
+      "total_cost": 298,
+      "num_guests": 2,
+      "check_in": "2025-10-25",
+      "check_out": "2025-10-27",
+      "created_at": "2025-10-20T14:40:32.506319",
+      "source": "web_chat"
+    }
+  ]
+}
